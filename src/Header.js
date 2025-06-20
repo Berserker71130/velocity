@@ -6,7 +6,7 @@ import { CiBellOn } from "react-icons/ci";
 import { CiUser } from "react-icons/ci";
 function Header() {
   return (
-    <div className="bg-white p-5 flex justify-between w-full shadow-sm">
+    <div className="bg-gray-100 p-9 flex justify-between w-full">
       <div className="flex space-x-5 text-xl">
         <FiMenu className="hover:bg-gray-300" />
         <FiSearch className="hover:bg-gray-300" />
@@ -16,6 +16,7 @@ function Header() {
         <FiSettings className="hover:bg-gray-300" />
         <CiBellOn className="hover:bg-gray-300" />
         <CiUser className="hover:bg-gray-300" />
+        
       </div>
     </div>
   );

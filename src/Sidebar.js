@@ -9,7 +9,7 @@ import { MdFormatAlignRight } from "react-icons/md";
 import { RiPagesLine } from "react-icons/ri";
 function Sidebar() {
   return (
-    <aside className="bg-gray-800 w-64 shadow-lg">
+    <aside className="bg-gray-800 w-64 shadow-lg fixed">
       <a href="/" className="text-2xl hover:bg-gray-900 text-white flex items-center px-3 py-4">
         <FiTrendingUp className="bg-blue-400 text-5xl mr-3 rounded-xl p-1" />
         <span>Datta Able</span>
@@ -31,12 +31,12 @@ function Sidebar() {
         </ul>
       </div>
 
-      <h2 className="text-white font-semibold mt-5 py-3 px-3">UI COMPONENTS</h2>
+      <h2 className="text-white font-semibold mt-5 py-2 px-3">UI COMPONENTS</h2>
       <ul className="space-y-2 px-3">
         <li>
           <a
             href="color"
-            className="flex items-center space-x-2 text-white py-2 hover:bg-gray-900"
+            className="flex items-center space-x-2 text-white py-1 hover:bg-gray-900"
           >
             <IoMdColorFilter className="text-xl" />
             <span>Color</span>
@@ -45,7 +45,7 @@ function Sidebar() {
         <li>
           <a
             href="typography"
-            className="flex items-center space-x-2 text-white py-2 hover:bg-gray-900"
+            className="flex items-center space-x-2 text-white py-1 hover:bg-gray-900"
           >
             <TbFileTypography className="text-xl" />
             <span>Typography</span>
