@@ -1,11 +1,8 @@
-import Sidebar from "./Sidebar";
-import Main from "./Main";
-
+import WeatherApp from "./WeatherApp";
 function App() {
   return (
-    <div className="flex bg-gray-300">
-      <Sidebar />
-      <Main />
+    <div>
+      <WeatherApp />
     </div>
   );
 }
