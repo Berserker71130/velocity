@@ -13,6 +13,7 @@ this project demonstrates proficiency in asynchronous data fetching, state manag
 
   ## API Key Setup
   To run this application, you must obtain an API key from OpenWeatherMap.
+  
   1. Sign up
   2. Obtain your unique **API Key**
   3. Create a file named **'.env'** in the root directory of this project.
@@ -28,6 +29,7 @@ this project demonstrates proficiency in asynchronous data fetching, state manag
    2. npm (or yarn)
   
       ### Installation
+      ...bash
       1. **Clone the repository:**
        ...bash
        git clone [Your-gitHub-Repository-URL]
@@ -49,6 +51,6 @@ this project demonstrates proficiency in asynchronous data fetching, state manag
          The application will now be running and accessible at 'http://localhost:300.
 
          ## Usage
-         1. Enter thhe name of a city or location into the search bar.
+         1. Enter the name of a city or location into the search bar.
          2. Press Enter or click the Search button.
          3. The application will display the weather data fetched from the API for that specific location
