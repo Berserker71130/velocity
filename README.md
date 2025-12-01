@@ -1,13 +1,13 @@
 # App Name: Real-Time Weather Application
 
 ## Overview
-This is a dynamic front-end application designed to display real-time weather data for global cities.Users can search for a location and view current conditions, temperature, humidity, wind speed and forecast for 3 days.
-this project demonstrates proficiency in asynchronous data fetching, state management in React, and integration with third-party APIs.
+This is a dynamic front-end application designed to display real-time weather data for global cities. Users can search for a location and view current conditions, temperature, humidity, wind speed and forecast for 3 days.
+This project demonstrates proficiency in asynchronous data fetching, state management in React, and integration with third-party APIs.
 
 ## Tech Stack
 * **Frontend Framework:** **React.js**
 * **Styling:** **Tailwind CSS**
-* **API Interaction:** Standard Fetch
+* **API Interaction:** **Standard Fetch**
 * **Primary Weather API:** **OpenWeatherMap**
 * **Key React Hooks:** 'useState', 'useEffect' (used for managing data fetching and component lifecycle)
 
@@ -22,33 +22,28 @@ this project demonstrates proficiency in asynchronous data fetching, state manag
 5. Ensure your API fetching logic uses this enviroment variable.
 
    ## Getting Started
-   Follow these steps tp  set up and run the application locally.
+   Follow these steps to  set up and run the application locally.
 
    ### Prerequisites
    1. Node.js (LTS version recommended)
    2. npm (or yarn)
   
       ### Installation
-      ...bash
       1. **Clone the repository:**
-       ...bash
        git clone [Your-gitHub-Repository-URL]
 
 2. **Navigate to project directory:**
-   ...bash
    cd velocity
    
    3. **Install dependencies:**
-      ...bash
       npm install
       #OR
       #yarn install
 
       4. **Start the development server:**
-         ...bash
          npm start
 
-         The application will now be running and accessible at 'http://localhost:300.
+         The application will now be running and accessible at 'http://localhost:3000'.
 
          ## Usage
          1. Enter the name of a city or location into the search bar.
