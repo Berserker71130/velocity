@@ -47,3 +47,14 @@ This project demonstrates proficiency in asynchronous data fetching, state manag
          1. Enter the name of a city or location into the search bar.
          2. Press Enter or click the Search button.
          3. The application will display the weather data fetched from the API for that specific location
+
+
+# Screenshots
+
+<img width="1366" height="768" alt="Weather forecast " src="https://github.com/user-attachments/assets/91faa6e4-7921-4813-a877-ce5925724172" />
+Weather Forecast 1
+
+<img width="1366" height="768" alt="Weather forecast" src="https://github.com/user-attachments/assets/2ff95c73-ca50-492c-9a27-3ce932c62f42" />
+More details to the forecast
+
+
