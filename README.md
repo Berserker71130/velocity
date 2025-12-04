@@ -16,7 +16,7 @@ This project demonstrates proficiency in asynchronous data fetching, state manag
   
   1. Sign up
   2. Obtain your unique **API Key**
-  3. Create a file named **'.env'** in the root directory of this project.
+  3. Create a file named **'.env'** in the root directory of this p
   4. Add your API key to the '.env' file using the format below:
     WEATHER_API_KEY=[Your API key here]
 5. Ensure your API fetching logic uses this enviroment variable.
