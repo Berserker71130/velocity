@@ -1,5 +1,3 @@
-# App Name: Real-Time Weather Application
-
 ## Overview
 This is a dynamic front-end application designed to display real-time weather data for global cities. Users can search for a location and view current conditions, temperature, humidity, wind speed and forecast for 3 days.
 This project demonstrates proficiency in asynchronous data fetching, state management in React, and integration with third-party APIs.
@@ -30,7 +28,7 @@ This project demonstrates proficiency in asynchronous data fetching, state manag
   
       ### Installation
       1. **Clone the repository:**
-       git clone [Your-gitHub-Repository-URL]
+       git clone 
 
 2. **Navigate to project directory:**
    cd velocity
