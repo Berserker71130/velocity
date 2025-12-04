@@ -28,7 +28,7 @@ This project demonstrates proficiency in asynchronous data fetching, state manag
   
       ### Installation
       1. **Clone the repository:**
-       git clone 
+       git clone https://github.com/Berserker71130/velocity.git
 
 2. **Navigate to project directory:**
    cd velocity
