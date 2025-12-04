@@ -52,8 +52,8 @@ You need to have *Node.js* (LTS version recommended) and *npm* (or yarn) install
     
 
 3.  *API Key Configuration:*
-    The application uses the OpenWeatherMap API key hardcoded in the WeatherApp.jsx file. For a production environment, you should move this to a .env file.
-    (Note: Your current key is c749497919459389bb1e8db37d371711)
+    The application uses the OpenWeatherMap API key hardcoded in the WeatherApp.jsx file. For a production environment.
+    (Note: Current key is c749497919459389bb1e8db37d371711)
 
 ### Running the Application
 
