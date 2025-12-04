@@ -39,13 +39,13 @@ You need to have *Node.js* (LTS version recommended) and *npm* (or yarn) install
 1.  *Clone the Repository:*
 
     bash
-    git clone [Your_GitHub_Repository_URL]
+    git clone https://github.com/Berserker71130/velocity.git
     cd velocity
     
 
 2.  *Install Dependencies:*
 
-    bash
+    
     npm install
     # or
     yarn install
