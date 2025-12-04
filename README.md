@@ -91,3 +91,8 @@ The main display uses a responsive grid:
   * *Mobile View:* The layout collapses into a single vertical column (grid-cols-1).
 
 -----
+# Screenshots
+<img width="1366" height="768" alt="Weather APP" src="https://github.com/user-attachments/assets/91725fd5-9319-4e35-90c2-48a86af44e8a" />
+
+<img width="1366" height="768" alt="WEather app more details" src="https://github.com/user-attachments/assets/4abcce7f-39f9-4ba2-9419-a99c4fc86c76" />
+
